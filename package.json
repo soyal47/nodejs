@@ -1,0 +1,25 @@
+{
+  "name": "firstnode",
+  "version": "1.0.0",
+  "description": "this is a first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "soyalll"
+  ],
+  "author": "soyal",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "mongodb": "^4.13.0",
+    "mongoose": "^6.8.4",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.20",
+    "socket.io": "^4.5.4"
+  }
+}
